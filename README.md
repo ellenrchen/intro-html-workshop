@@ -1,5 +1,5 @@
 # intro-to-html-workshop
-Teaching the basics of HTML by creating a personal website
+Teaching the basics of HTML by creating a personal website completely built in HTML
 
 covers: 
 
